@@ -1,11 +1,11 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-    pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-      I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
-      Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
-    "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-    "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
+    pc: `This is my PC. I spend a lot of time learning new things and playing games.
+      I have a broad range of skills encompassing programming, networking, sysadmin, support, and security.
+      Here is my <a href="https://github.com/sixandseven8ths" target="_blank">Github</a>!`,
+    "cs-degree": `This is my degree. I hung it on the wall because I'm proud of it. It might only be an Associate's degree but I think it gave me a good foundation.`,
+    "sofa-table": `That's my sofa. I like to relax here and watch horror and sci-fi movies/shows. 
     I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
     You'll learn how I built this portfolio you're currently playing through!`,
     tv: `That's my TV. I've been watching tech youtubers a lot recently like :
@@ -16,8 +16,8 @@ export const dialogueData = {
     Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
     projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
     Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-    Kaboom.js by watching some of my tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
-    library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
-    I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
+    Kaboom.js by watching this tutorial <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
+    library: `There are a lot of tech books on my shelves. I've probably only read one of them. Who else compulsively buys technical books without ever finishing them?
+    I also enjoy fiction and one of my favorites is The Cryptonomicon`,
     exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
   };
