@@ -57,7 +57,7 @@ k.scene("main", async () => {
                 if (boundary.name) {
                     player.onCollide(boundary.name, () => {
                         player.isInDialogue = true;
-                        displayDialogue("", () => (player.isInDialogue = false));
+                        displayDialogue [boundary.name], () => (player.isInDialogue = false);
                     });
                 }
             }
